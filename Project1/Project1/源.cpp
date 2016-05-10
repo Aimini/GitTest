@@ -7,5 +7,8 @@ int main()
     cout<<"2"<<endl;
     cout<<"fdgj"<<endl;
     cout<<"ig"<<endl;
+
+
+
     system("pause");
 }
