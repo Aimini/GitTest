@@ -262,3 +262,10 @@ Thumbs.db
 obj/
 [Rr]elease*/
 [Tt]est[Rr]esult*
+Project1/Debug/Project1.exe
+Project1/Debug/Project1.ilk
+Project1/Debug/Project1.pdb
+Project1/Project1/Debug/CL.read.1.tlog
+Project1/Project1/Debug/vc110.idb
+Project1/Project1/Debug/vc110.pdb
+Project1/Project1/Debug/源.obj
